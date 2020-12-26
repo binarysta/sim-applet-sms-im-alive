@@ -12,7 +12,7 @@ JavaCard SIM card applet to deliver an SMS very the first time the SIM registers
 
 ## Description
 
-This version sends a sms with location information (MCC MNC) to an example destination address. You should trigger the applet by selecting the SKT menu. You should code the desired destination address following the instructions in the source code.
+This version sends a sms with location information (MCC MNC) to an example destination address. You should trigger the applet by selecting the STK menu. You should code the desired destination address following the instructions in the source code.
 
 
 ## ToDo
